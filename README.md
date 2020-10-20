@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=6Jz-Ywxki0U&t=362s
 Developed By
 ------------
 
-* Kyrylo Triskalo Artem, Vlad Kosyi , CHI Software
+* Kyrylo Triskalo, Vlad Kosyi , CHI Software
 
 License
 --------
