@@ -1,5 +1,6 @@
 Introduction of the basic functions of Fastline 
 ------------------------------------------
+<img width="1280" alt="Screenshot 2020-11-29 at 15 25 44" src="https://user-images.githubusercontent.com/24793669/100543172-4371b100-3257-11eb-9aea-1d7e3dfa0896.png">
 
 
 
