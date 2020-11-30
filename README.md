@@ -10,8 +10,8 @@ The content of the presentation:
 
 Presentation links:
 ------------------------------------------
-https://github.com/capitanx9/AppleStoreConnectAPI/blob/main/Apple%20Store%20Connect%20API.pdf - read verison
-https://web.microsoftstream.com/video/e62aa44b-74a7-42a3-8954-8f7c3cbf8ea5 - video conference 
+* https://github.com/capitanx9/AppleStoreConnectAPI/blob/main/Apple%20Store%20Connect%20API.pdf - read verison
+* https://web.microsoftstream.com/video/e62aa44b-74a7-42a3-8954-8f7c3cbf8ea5 - video conference 
 
 Additional info:
 ------------------------------------------
