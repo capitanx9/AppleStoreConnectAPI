@@ -8,6 +8,10 @@ The content of the presentation:
 * Introducing the basic features of Fastlane
 * Step-by-step instructions for deploying Fastlane and uploading the app to Apple Connect
 
+Presentation link:
+------------------------------------------
+https://web.microsoftstream.com/video/e62aa44b-74a7-42a3-8954-8f7c3cbf8ea5
+
 Additional info:
 ------------------------------------------
 When my manual becomes irrelevant, then you can familiarize yourself with the current manual on the founder's channel:
