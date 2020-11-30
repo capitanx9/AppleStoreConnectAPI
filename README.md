@@ -8,9 +8,10 @@ The content of the presentation:
 * Introducing the basic features of Fastlane
 * Step-by-step instructions for deploying Fastlane and uploading the app to Apple Connect
 
-Presentation link:
+Presentation links:
 ------------------------------------------
-https://web.microsoftstream.com/video/e62aa44b-74a7-42a3-8954-8f7c3cbf8ea5
+https://github.com/capitanx9/AppleStoreConnectAPI/blob/main/Apple%20Store%20Connect%20API.pdf - read verison
+https://web.microsoftstream.com/video/e62aa44b-74a7-42a3-8954-8f7c3cbf8ea5 - video conference 
 
 Additional info:
 ------------------------------------------
